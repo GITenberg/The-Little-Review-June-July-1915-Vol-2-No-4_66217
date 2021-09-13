@@ -1,0 +1,77 @@
+_repo: The-Little-Review-June-July-1915-Vol-2-No-4_66217
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ficke, Arthur Davison
+    alias: Knish, Anne
+    birthdate: 1883
+    deathdate: 1945
+    gutenberg_agent_id: '26668'
+    url: http://www.gutenberg.org/2009/agents/26668
+  - agent_name: Bynner, Witter
+    aliases:
+    - Bynner, Harold Witter
+    - Morgan, Emanuel
+    birthdate: 1881
+    deathdate: 1968
+    gutenberg_agent_id: '32329'
+    url: http://www.gutenberg.org/2009/agents/32329
+    wikipedia: http://en.wikipedia.org/wiki/Witter_Bynner
+  - &id001
+    agent_name: Anderson, Margaret C.
+    alias: Anderson, Margaret Carolyn
+    birthdate: 1886
+    deathdate: 1973
+    gutenberg_agent_id: '50946'
+    url: http://www.gutenberg.org/2009/agents/50946
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_C._Anderson
+  - agent_name: Cary, Lucien
+    gutenberg_agent_id: '53687'
+    url: http://www.gutenberg.org/2009/agents/53687
+  - agent_name: Kaun, Alexander S.
+    gutenberg_agent_id: '53688'
+    url: http://www.gutenberg.org/2009/agents/53688
+  - agent_name: Hecht, Ben
+    birthdate: 1894
+    deathdate: 1964
+    gutenberg_agent_id: '2616'
+    url: http://www.gutenberg.org/2009/agents/2616
+    wikipedia: https://en.wikipedia.org/wiki/Ben_Hecht
+  - agent_name: Tietjens, Eunice
+    birthdate: 1884
+    deathdate: 1944
+    gutenberg_agent_id: '4844'
+    url: http://www.gutenberg.org/2009/agents/4844
+    wikipedia: https://en.wikipedia.org/wiki/Eunice_Tietjens
+  - agent_name: Aldington, Richard
+    alias: Oldington, Richard
+    birthdate: 1892
+    deathdate: 1962
+    gutenberg_agent_id: '34481'
+    url: http://www.gutenberg.org/2009/agents/34481
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Aldington
+  - agent_name: Comfort, Will Levington
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '2012'
+    url: http://www.gutenberg.org/2009/agents/2012
+    wikipedia: https://en.wikipedia.org/wiki/Will_Levington_Comfort
+  - agent_name: Frank, Florence Kiper
+    gutenberg_agent_id: '53690'
+    url: http://www.gutenberg.org/2009/agents/53690
+  - agent_name: Shanafelt, Clara
+    gutenberg_agent_id: '53689'
+    url: http://www.gutenberg.org/2009/agents/53689
+  editor: *id001
+description: ''
+gutenberg_issued: '2021-09-04'
+identifiers:
+  gutenberg: '66217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Little Review, June-July 1915 (Vol. 2, No. 4)
+url: http://www.gutenberg.org/ebooks/66217
